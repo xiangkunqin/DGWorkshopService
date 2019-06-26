@@ -2,20 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="85d7d753-829c-400c-b463-82f6c8b155a0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/data/power/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/power/data_zhanyou_1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/power/data_zhanyou_2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/power/data_zhanyou_2_1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/power/data_zhanyou_2_1_jieba.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/power/data_zhanyou_qa_1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/power/data_zhanyou_qa_2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/power/data_zhanyou_qa_3.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/model/data_zhanyou_1_word2vec.model" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/model/data_zhanyou_2_word2vec.model" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config.ini" beforeDir="false" afterPath="$PROJECT_DIR$/config.ini" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -31,11 +18,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="491">
-              <caret line="106" lean-forward="true" selection-start-line="106" selection-end-line="106" />
-              <folding>
-                <element signature="e#0#23#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="266">
+              <caret line="14" column="10" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="10" />
             </state>
           </provider>
         </entry>
@@ -71,10 +55,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="121" />
-    <option name="y" value="177" />
-    <option name="width" value="1608" />
-    <option name="height" value="996" />
+    <option name="x" value="171" />
+    <option name="y" value="237" />
+    <option name="width" value="1470" />
+    <option name="height" value="762" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -165,12 +149,12 @@
       <option name="presentableId" value="Default" />
       <updated>1561449150472</updated>
       <workItem from="1561449151819" duration="2666000" />
-      <workItem from="1561514449248" duration="2130000" />
+      <workItem from="1561514449248" duration="2382000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4796000" />
+    <option name="totallyTimeSpent" value="5048000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="828" extended-state="6" />
@@ -212,11 +196,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="491">
-          <caret line="106" lean-forward="true" selection-start-line="106" selection-end-line="106" />
-          <folding>
-            <element signature="e#0#23#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="266">
+          <caret line="14" column="10" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="10" />
         </state>
       </provider>
     </entry>

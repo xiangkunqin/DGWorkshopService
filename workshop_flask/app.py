@@ -1,4 +1,5 @@
-from flask import Flask
+from flask import  Flask,render_template,request,jsonify
+from flask_restful import reqparse, abort, Api, Resource
 from gensim.models import Word2Vec
 from gensim import corpora, models, similarities
 # en_wiki_word2vec_model = Word2Vec.load('wiki.zh.text.model')
@@ -103,7 +104,7 @@ def getSIMTableName():
             else:
                 print(res[len(res) - num])
                 num = num - 1
-    return str(res)
+    return jsonify(res)
 
 if __name__ == '__main__':
     app.run()
